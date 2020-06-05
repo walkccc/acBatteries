@@ -1,4 +1,5 @@
 INSTALL_TARGET_PROCESSES = SpringBoard
+THEOS_DEVICE_IP = 192.168.0.13
 
 include $(THEOS)/makefiles/common.mk
 
