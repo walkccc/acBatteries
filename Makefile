@@ -4,7 +4,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = acBatteries
 
-acBatteries_FILES = Tweak.x
+acBatteries_FILES = Tweak.xm
 acBatteries_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
